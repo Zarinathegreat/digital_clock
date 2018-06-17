@@ -1,0 +1,353 @@
+html {
+    background-image: url("images/back.jpg");
+    background-size: cover;
+    font-family: 'VT323', monospace;
+  
+}
+
+body {
+    color: #00f9ff;
+    
+}
+
+
+.main {
+    background: #000;
+    /* border: 7px solid #c2c2c2; */
+    border-radius: 30px;
+    box-shadow: 14px -16px 2px 12px rgba(190, 190, 190, 1);
+    position: absolute;
+    top:64%;
+    left: 30%;
+    width: 37rem;
+    height: 20rem;
+}
+
+.clock {
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  font-size: 11rem;
+  text-shadow: 1px 2px 20px rgba(143, 252, 255, 0.6);
+  
+}
+
+#container {
+    position: absolute;
+    top: 80%;
+    left: 40%;
+}
+
+#container div {
+    background : #8ffcff;
+    height:19px;
+    width :19px;
+    margin : 5px;
+    float: left; 
+    box-shadow: 1px 2px 2px 4px rgba(143, 252, 255, 0.2);
+        
+}
+
+.background2 {
+    position: absolute;
+    top:63%;
+    left: 36.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background3 {
+    position: absolute;
+    top:63%;
+    left: 38%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background4 {
+    position: absolute;
+    top:63%;
+    left: 39.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background5 {
+    position: absolute;
+    top:63%;
+    left: 41%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background6 {
+    position: absolute;
+    top:63%;
+    left: 42.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background7 {
+    position: absolute;
+    top:63%;
+    left: 44%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background8 {
+    position: absolute;
+    top: 63%;
+    left: 45.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  
+
+.background9 {
+    position: absolute;
+    top: 63%;
+    left: 47%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background10 {
+    position: absolute;
+    top:63%;
+    left: 48.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  
+
+.background11 {
+    position: absolute;
+    top:63%;
+    left: 50%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background12 {
+    position: absolute;
+    top:63%;
+    left: 51.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background13 {
+    position: absolute;
+    top:63%;
+    left: 53%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background14 {
+    position: absolute;
+    top:63%;
+    left: 54.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background15 {
+    position: absolute;
+    top:63%;
+    left: 56%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background16 {
+    position: absolute;
+    top:63%;
+    left: 57.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background17 {
+    position: absolute;
+    top:63%;
+    left: 59%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background18 {
+    position: absolute;
+    top: 63%;
+    left: 60.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  
+
+.background19 {
+    position: absolute;
+    top: 63%;
+    left: 62%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background20 {
+    position: absolute;
+    top:63%;
+    left: 63.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  
+
+.background21 {
+    position: absolute;
+    top:63%;
+    left: 65%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+/* .background22 {
+    position: absolute;
+    top:63%;
+    left: 66.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  */
+
+/* .background23 {
+    position: absolute;
+    top:63%;
+    left: 68%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background24 {
+    position: absolute;
+    top:63%;
+    left: 69.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  */
+
+/* .background25 {
+    position: absolute;
+    top:63%;
+    left: 71%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  */
+
+/* .background26 {
+    position: absolute;
+    top:63%;
+    left: 72.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background27 {
+    position: absolute;
+    top:63%;
+    left:74%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background28 {
+    position: absolute;
+    top: 63%;
+    left: 75.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}   */
+/* 
+.background29 {
+    position: absolute;
+    top: 63%;
+    left: 77%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+} 
+
+.background30 {
+    position: absolute;
+    top:63%;
+    left: 78.5%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  
+
+.background31 {
+    position: absolute;
+    top:63%;
+    left: 80%;
+    background: #fff;
+    transform: translateX(-50%) translateY(-50%);
+    width: 16px;
+    height: 16px;
+}  */
+
+
+
